@@ -16,7 +16,7 @@ def show_member(img_path, name, title, bio):
 show_member(
     "indrani.jpeg", "Indrani Mazumdar", "AI Architect & Founder",
     """
-- Lead Data Scientist in Generative AI and Multimodal ML
+- AI Architect in Generative AI and Multimodal ML
 - AI system builder for healthcare
 - Adjunct Data Scientist, Mount Sinai
 - Creator of Vida's agent-based triage framework
@@ -27,7 +27,7 @@ show_member(
     "kaustav.jpg", "Kaustav Mukherjee", "Technical & Research Advisor",
     """
 - Assistant Research Professor, Mount Sinai
-- Expert in red blood cell biology and bioinformatics
+- Hematologist and bioinformatician
 - Advises on biomedical data strategy and longitudinal design
 """
 )
