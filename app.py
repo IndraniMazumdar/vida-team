@@ -33,7 +33,7 @@ show_member(
 )
 
 show_member(
-    "chi.jpg", "Chi Chan, Ph.D.", "Potential Collaborator",
+    "chi.jpg", "Chi Chan, Ph.D.", "Consulting Psychologist",
     """
 - Assistant Professor, Psychology Division, Mount Sinai
 - Licensed clinical psychologist
