@@ -14,7 +14,7 @@ def show_member(img_path, name, title, bio):
         st.markdown(bio)
 
 show_member(
-    "indrani.jpg", "Indrani Mazumdar", "AI Architect & Founder",
+    "indrani.jpeg", "Indrani Mazumdar", "AI Architect & Founder",
     """
 - Lead Data Scientist in Generative AI and Multimodal ML
 - AI system builder for healthcare
@@ -27,7 +27,7 @@ show_member(
     "kaustav.jpg", "Kaustav Mukherjee", "Technical & Research Advisor",
     """
 - Assistant Research Professor, Mount Sinai
-- Expert in red blood cell biology
+- Expert in red blood cell biology and bioinformatics
 - Advises on biomedical data strategy and longitudinal design
 """
 )
